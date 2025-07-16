@@ -1,2 +1,15 @@
 datasets/
 datasets.zip
+new/
+new_datasets/
+video/
+.ipynb_checkpoints/
+latest_datasets/
+outs/
+newest_datasets/
+in/
+image/
+tests/
+results/
+out/
+runs/
